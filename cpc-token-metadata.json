@@ -1,0 +1,6 @@
+{
+  "name":"CPCDv",
+  "symbol":"cpcdv.0.001",
+  "description":"This is a dev token for cpc_token",
+  "image":"https://raw.githubusercontent.com/tokencpc/cpc_token_fs/refs/heads/main/cpc-token-logo-round.png"
+}
